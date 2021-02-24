@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Ahdieh Emadi
 
-avatar: "/images/bio-photo.jpg"
+author:
+  picture: /images/bio-photo.jpg
+
 
