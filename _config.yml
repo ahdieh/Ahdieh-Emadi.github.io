@@ -1,3 +1,20 @@
 theme: jekyll-theme-cayman
 title: Ahdieh Emadi
-avatar: bio-photo.jpg
+
+owner:
+  name: Ted Laderas
+  avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."
+  email: laderast@ohsu.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: laderast
+  linkedin: #username
+  github: laderast
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
