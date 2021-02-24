@@ -1,4 +1,4 @@
-* [Home](/home.md)
+* [Home](/index.md)
 * [About Me](/about.md)
 * [CV](/cv.md)
 * [My Projects](/projects.md)
