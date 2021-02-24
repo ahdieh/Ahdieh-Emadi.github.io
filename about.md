@@ -1,1 +1,2 @@
-I am a Software Developer
+* [Home](/index.md)
+I am a Software Developer.
