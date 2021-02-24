@@ -1,5 +1,5 @@
-* [Home](http://github.com)
-* About Me
-* CV
-* My Projects
-* My Likedin
+* [Home](/home.md)
+* [About Me](/about.md)
+* [CV](/cv.md)
+* [My Projects](/projects.md)
+* [My Likedin](/linkedin.md)
