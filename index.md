@@ -1,5 +1,5 @@
 * [Home](/index.md)
 * [About Me](/about.md)
-* [CV](/cv.md)
+* [CV](/Ahdieh-Resume.pdf)
 * [My Projects](/projects.md)
 * [My Likedin](/linkedin.md)
