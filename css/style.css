@@ -28,6 +28,15 @@ p {
   background-color:#A09794;
 }
 
+#buttons{
+    margin:0.5% 0;
+}
+button{
+    color:#000000;
+    background-color:#F7BE81;
+    margin-right:10px;
+}
+
 a{
   
     text-decoration: none;
