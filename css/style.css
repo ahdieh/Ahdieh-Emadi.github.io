@@ -1,13 +1,16 @@
-img {
-width:100px;
-height:100px;
+#banner {
+ width:70%;
+ height:250px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 
 }
 #myPicture{
-position:absolute;
-top:15%;
-left:10%;
-float:left;
+ position:absolute;
+ top:15%;
+ left:10%;
+ float:left;
 }
 /*#header{
 text-align:center;
