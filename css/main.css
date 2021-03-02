@@ -48,6 +48,12 @@ width:100%;
 position:relative;
 margin-top:2%;
 margin-bottom:2%;
+}
+
+#header a{
+ background-color:#fffbeb;
+ border:none;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
