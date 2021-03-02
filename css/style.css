@@ -41,8 +41,16 @@ button{
     padding:1%;
 }
 
-a{
-  
+#select{
+   color:#000000;
+   background-color:#F7BE81;
+   margin-right:10px;
+   font-size:medium;
+   font-weight:bold;
+   border:1px solid black;
+}
+
+a{ 
     text-decoration: none;
     color:#000000;
     background-color:#F7BE81;
