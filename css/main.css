@@ -32,29 +32,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-.banner {
-width:100px;
-height:100px;
 
-}
-#myPicture{
-position:absolute;
-top:15%;
-left:10%;
-float:right;
-}
-/*#header{
-text-align:center;
-width:100%;
-position:relative;
-margin-top:2%;
-margin-bottom:2%;
-}
-
-#header a{
- background-color:#fffbeb;
- border:none;
-}*/
 
 ul.posts { 
     margin: 20px auto 40px; 
