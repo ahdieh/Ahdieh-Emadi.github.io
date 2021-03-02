@@ -24,6 +24,10 @@ p {
  margin-left: 5%;
 }
 
+#buttons{
+    margin:0.5% 0;
+}
+
 /*#header a{
  background-color:#fffbeb;
  border:none;
