@@ -12,6 +12,9 @@
  left:10%;
  float:right;
 }
+p{
+ background-color:#fffbeb;
+}
 /*#header{
 text-align:center;
 width:100%;
