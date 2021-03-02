@@ -35,6 +35,7 @@ footer {
 #banner{
 width:70%;
 height:250px;
+display: block;
 margin-left:auto;
 margin-right:auto;
 }
