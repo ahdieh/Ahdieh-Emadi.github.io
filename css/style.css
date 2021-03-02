@@ -113,6 +113,14 @@ background-color:#df838c;
     width:100%;
 height:inherit;
 }
-
+#Form{
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#847966;
+    width:50%;
+    padding-top:10px;
+    padding-bottom:30px;
+     text-align:center;
+}
 
 
