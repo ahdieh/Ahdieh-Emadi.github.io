@@ -4,6 +4,9 @@ body {
 #banner {
  width:70%;
  height:300px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
 #myPicture{
  position:absolute;
